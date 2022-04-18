@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+/* body {
+    margin: 0;
+    background-color: #111419 ;
+} */
+
+header {
+    background-image: url('../img/header_background.jpg');
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+
+header h5 {
+    font-size: 3.5vw;
+}
+
+header p {
+    font-size: 2vw;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* clases predefinidas */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+strong {
+    font-family: 'Homemade Apple', cursive;
+}
+
+i {
+    opacity: 0.5;
+}
+
+
+/* Clear floats after the columns */
+
+.row-c:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/* Diseño de columnas */
+
+.column-1 {
+    width: 100%;
+    float: left;
+}
+
+.column-2 {
+    width: 50%;
+    float: left;
+}
+
+.column-3 {
+    width: 33.33%;
+    float: left;
+}
+
+.column-4 {
+    width: 25%;
+    float: left;
+}
+
+.column-5 {
+    width: 20%;
+    float: left;
+}
+
+.column-6 {
+    width: 16.66%;
+    float: left;
+}
+
+.column-75 {
+    width: 75%;
+    float: left;
+}
+
+.column-33 {
+    width: 33.33%;
+    float: left;
+}
+
+.column-66 {
+    width: 66.66%;
+    float: left;
+}
+
+
+/* Otras clases */
+
+.target {
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    height: 25vw;
+}
+
+.target-s {
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    height: 15vw;
+}
+
+.padding-l {
+    padding: 20%;
+}
+
+.padding-m {
+    padding: 1% 3%;
+}
+
+.padding-s {
+    padding: 1%;
+}
+
+.padding-xs {
+    padding: 1%;
+}
+
+.padding-right {
+    padding-right: 15%;
+}
+
+.padding-mobile {
+    padding: 1% 2% 1% 2%;
+}
+
+.target-wr {
+    border-radius: 0;
+}
+
+@media only screen and (max-width: 800px) {
+    /*reglas*/
+    /* column-3 pasará de tener 33.33% a 100% */
+    header {
+        height: 60vh;
+    }
+    .column-2 {
+        width: 100%;
+    }
+    .column-3 {
+        width: 50%;
+    }
+    /* column-4 pasará de tener 25% a 50% */
+    .column-4 {
+        width: 50%;
+    }
+    .column-33 {
+        width: 100%;
+    }
+    .column-66 {
+        width: 100%;
+        float: left;
+    }
+    .text-4 {
+        width: 100%;
+    }
+    header h5 {
+        font-size: 5.5vw;
+    }
+    header p {
+        font-size: 4vw;
+    }
+    .target {
+        height: 30vw;
+    }
+    .column-75 {
+        width: 100%;
+        float: left;
+    }
+    .target-s {
+        height: 15vw;
+    }
+    .padding-mobile {
+        padding: 1% 2% 1% 2%;
+    }
+    .flex:not(header,
+    h3) {
+        display: block;
+    }
+    .padding-right {
+        padding-right: 2%;
+    }
+    .target-wr {
+        height: 40vw;
+    }
+    .padding-l {
+        padding: 0;
+    }
+}
+
+
+/* Responsive móbil */
+
+@media screen and (max-width: 400px) {
+    header h5 {
+        font-size: 7vw;
+    }
+    header p {
+        font-size: 6vw;
+    }
+    .column-3 {
+        width: 100%;
+    }
+    .target {
+        height: 70vw;
+    }
+    .column-3 .target {
+        border-radius: 0;
+    }
+    .padding-m {
+        padding: 1% 2% 1% 2%;
+    }
+    .padding-mobile {
+        padding: 3% 0% 3% 0%;
+    }
+}
