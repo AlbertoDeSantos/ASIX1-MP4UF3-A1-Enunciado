@@ -1,7 +1,5 @@
 # Evolucionar un sistema
 
-**MP4UF3A1**
-
 La necesidad de compartir ideas y pensamientos siempre ha estado tangible en la sociedad (p. ej. Facebook, Instagram, WhatsApp...); en el mundo educativo pasa lo mismo. Para ello se propone adaptar y evolucionar una plataforma web donde cualquier persona que se dedique al mundo de la enseñanza pueda compartir sus actividades.
 
 Este desafío requiere que los desarrolladores que lo implementen siga estas restricciones:
