@@ -8,8 +8,6 @@ body {
     align-items: center;
     justify-content: center;
     background-color: #111419;
-    /* -webkit-tap-highlight-color: transparent;
-    transition: background-color var(--duration); */
 }
 
 main {

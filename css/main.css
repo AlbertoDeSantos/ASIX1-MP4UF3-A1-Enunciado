@@ -4,25 +4,11 @@
     font-family: 'Quicksand', sans-serif;
 }
 
-
-/* body {
-    margin: 0;
-    background-color: #111419 ;
-} */
-
 header {
     background-image: url('../img/header_background.jpg');
-    height: 80vh;
+    height: 50vh;
     background-size: cover;
     background-position: center;
-}
-
-header h5 {
-    font-size: 3.5vw;
-}
-
-header p {
-    font-size: 2vw;
 }
 
 .flex {
@@ -156,7 +142,7 @@ i {
 @media only screen and (max-width: 800px) {
     /*reglas*/
     header {
-        height: 60vh;
+        height: 40vh;
     }
     .column-2 {
         width: 100%;
