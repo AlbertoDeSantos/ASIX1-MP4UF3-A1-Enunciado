@@ -110,6 +110,11 @@ i {
     height: 15vw;
 }
 
+img{
+    object-fit: cover;
+    width: 100%;
+}
+
 .padding-l {
     padding: 20%;
 }
