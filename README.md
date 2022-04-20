@@ -29,6 +29,7 @@ Este desafío requiere que los desarrolladores que lo implementen siga estas res
 - [ ] Como usuario que ha hecho login quiero poder ver un botón de **logout** en lugar del botón **Acceder** del menú de navegación de para salir de la app
 - [ ] Como usuario quiero poder ver 4 imágenes relacionadas a las 4 últimas actividades que se han subido recientemente a la app
 - [ ] Como usuario quiero poder clicar encima de cualquier imagen de actividad y poder acceder a una página `actividad.html` para consultar sus detalles
+- [ ] Como usuario que ha hecho login quiero poder clicar el botón **corazón** de debajo de las actividades (en `actividades.html`) para que se añada como favorita dicha actividad
 
 <!-- Desarrollador -->
 
