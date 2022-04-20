@@ -32,7 +32,7 @@ Este desafío requiere que los desarrolladores que lo implementen siga estas res
 
 <!-- Desarrollador -->
 
-- [ ] Como futuro desarrollador quiero poder ver el código del la app comentado para poder entender como funciona el software desarrollado
+- [ ] Como futuro desarrollador quiero poder ver el código de la app comentado para poder entender como funciona el software desarrollado
 
 ## Bonus features
 
@@ -40,7 +40,7 @@ Este desafío requiere que los desarrolladores que lo implementen siga estas res
 
 - [ ] Como usuario que ha hecho login quiero poder tener la opción de publicar una actividad de **manera pública** o de **manera privada** (para que los demás usuarios de la app no puedan acceder a ella)
 - [ ] Como usuario quiero poder clicar el botón **enlace** de debajo de las actividades (en `actividades.html`) para copiar la url de la página (`actividad.html`) y poder consultar los detalles de la actividad seleccionada
-- [ ] Como usuario quiero quiero poder ver una página `topics.actividades.html` para poder ver agrupadas las actividades por el **topic** en concreto
+- [ ] Como usuario quiero poder ver una página `topics.actividades.html` para poder ver agrupadas las actividades por el **topic** en concreto
 - [ ] Como usuario quiero poder clicar en el botón matemáticas (apartado Topics de `nosotros.html`) para me redireccione a la página descrita anteriormente y ver las actividades relacionadas a matemáticas
 - [ ] Como usuario quiero poder clicar en el botón informática (apartado Topics de `nosotros.html`) para me redireccione a la página descrita anteriormente y ver las actividades relacionadas a informática
 
