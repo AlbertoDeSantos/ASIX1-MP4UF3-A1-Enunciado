@@ -54,5 +54,5 @@ Este desafío requiere que los desarrolladores que lo implementen siga estas res
 - [Actividades Matemáticas 3](http://recursostic.educacion.es/descartes/web/materiales_didacticos/Combinatoria/indice.htm)
 
 ## Example projects
-
-- [Live de la app](https://dannylarrea.github.io/app-actividades/index.html)
+- [Live de la app Alberto](https://albertodesantos.github.io/ASIX1-MP4UF3-A1-Enunciado/index.html)
+- [Live de la app Danny](https://dannylarrea.github.io/app-actividades/index.html)
